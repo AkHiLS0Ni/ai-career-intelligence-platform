@@ -2,6 +2,10 @@
 
 > A production-grade Data Engineering platform that continuously collects, processes, and visualizes AI ecosystem data from multiple live sources.
 
+## 📌 Current Version
+
+**v0.1.0 — Project Foundation**
+
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
