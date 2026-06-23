@@ -42,40 +42,38 @@ This platform centralizes these data sources into a single automated intelligenc
 
 ---
 
-# 🏗️ System Architecture
+## 🏗️ System Architecture
 
 ```text
-                AI News API
-                      │
-                      │
-         GitHub REST API
-                      │
-                      │
-      Hugging Face API
-                      │
-                      │
-      Job RSS / Public APIs
+                  Live Data Sources
+     ┌─────────────────────────────────────┐
+     │                                     │
+     │  GitHub API                         │
+     │  AI News API                        │
+     │  Hugging Face API                   │
+     │  Job RSS / Public APIs              │
+     └─────────────────────────────────────┘
                       │
                       ▼
-           Python ETL Pipeline
+             Data Ingestion Services
                       │
-        ┌─────────────┴─────────────┐
-        │                           │
-  Data Validation            Data Transformation
-        │                           │
-        └─────────────┬─────────────┘
+                      ▼
+               Raw JSON Storage
+                      │
+                      ▼
+             ETL Pipeline (Python)
                       │
                       ▼
              PostgreSQL Database
                       │
                       ▼
-            Streamlit Dashboard
+                 FastAPI Backend
                       │
                       ▼
-           GitHub Actions Scheduler
+             Streamlit Dashboard
                       │
                       ▼
-              Live Deployed Website
+               Live Cloud Deployment
 ```
 
 ---
