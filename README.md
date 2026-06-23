@@ -119,16 +119,16 @@ This platform centralizes these data sources into a single automated intelligenc
 
 # 🛠️ Tech Stack
 
-| Category | Technology |
-|----------|------------|
-| Language | Python |
-| API Integration | Requests |
-| Data Processing | Pandas |
-| Database | PostgreSQL |
-| Dashboard | Streamlit |
-| Scheduler | GitHub Actions |
-| Deployment | Streamlit Cloud |
-| Version Control | Git & GitHub |
+| Category        | Technology      |
+| --------------- | --------------- |
+| Language        | Python          |
+| API Integration | Requests        |
+| Data Processing | Pandas          |
+| Database        | PostgreSQL      |
+| Dashboard       | Streamlit       |
+| Scheduler       | GitHub Actions  |
+| Deployment      | Streamlit Cloud |
+| Version Control | Git & GitHub    |
 
 ---
 
