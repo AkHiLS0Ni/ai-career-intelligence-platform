@@ -1,4 +1,11 @@
 import requests
+from logger import logger
+from config import (
+    GITHUB_API_URL,
+    GITHUB_TOPIC,
+    GITHUB_SORT,
+    GITHUB_ORDER,
+)
 
 
 def fetch_github_data():
@@ -9,19 +16,33 @@ def fetch_github_data():
     """
 
     url = (
-        "https://api.github.com/search/repositories"
-        "?q=topic:artificial-intelligence"
-        "&sort=stars"
-        "&order=desc"
+        f"{GITHUB_API_URL}"
+        f"?q=topic:{GITHUB_TOPIC}"
+        f"&sort={GITHUB_SORT}"
+        f"&order={GITHUB_ORDER}"
     )
 
-    print("🚀 Fetching GitHub data...")
+    logger.info("Fetching GitHub data...")
 
-    response = requests.get(url)
+    try:
+        response = requests.get(url, timeout=10)
 
-    if response.status_code == 200:
-        print("✅ GitHub data fetched successfully!")
+        response.raise_for_status()
+
+        logger.info("GitHub data fetched successfully.")
+
         return response.json()
 
-    print(f"❌ Error: {response.status_code}")
+    except requests.exceptions.Timeout:
+        logger.error("Request timed out.")
+
+    except requests.exceptions.ConnectionError:
+        logger.error("Unable to connect to GitHub.")
+
+    except requests.exceptions.HTTPError as error:
+        logger.error(f"HTTP Error: {error}")
+
+    except requests.exceptions.RequestException as error:
+        logger.error(f"Unexpected Error: {error}")
+
     return None
