@@ -1,0 +1,31 @@
+repository,owner,description,language,stars,forks,updated_at
+AutoGPT,Significant-Gravitas,"AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",Python,185158,46132,2026-06-26 16:53:38+00:00
+prompts.chat,f,"f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",HTML,164385,21285,2026-06-26 17:17:50+00:00
+LLMs-from-scratch,rasbt,"Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",Jupyter Notebook,97855,15013,2026-06-26 17:19:41+00:00
+Deep-Live-Cam,hacksider,real time face swap and one-click video deepfake with only a single image,Python,94190,13726,2026-06-26 16:53:18+00:00
+claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",JavaScript,84450,7285,2026-06-26 17:25:31+00:00
+OpenHands,OpenHands,🙌 OpenHands: AI-Driven Development,Python,78425,9973,2026-06-26 17:27:45+00:00
+Flowise,FlowiseAI,"Build AI Agents, Visually",TypeScript,54035,24599,2026-06-26 16:49:14+00:00
+minimind,jingyaogong,🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter LLM from scratch in just 2h!,Python,52231,6725,2026-06-26 16:49:03+00:00
+AI-For-Beginners,microsoft,"12 Weeks, 24 Lessons, AI for All!",Jupyter Notebook,48468,10057,2026-06-26 17:27:29+00:00
+kong,Kong,🦍 The API and AI Gateway,Lua,43678,5160,2026-06-26 16:47:07+00:00
+DragGAN,XingangPan,Official Code for DragGAN (SIGGRAPH 2023),Python,35815,3414,2026-06-26 16:28:23+00:00
+Vane,ItzCrazyKns,Vane is an AI-powered answering engine.,TypeScript,35464,3902,2026-06-26 15:15:33+00:00
+500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code,ashishpatel26,500 AI Machine learning Deep learning Computer vision NLP Projects with code,,34923,7293,2026-06-26 17:22:00+00:00
+spaCy,explosion,💫 Industrial-strength Natural Language Processing (NLP) in Python,Python,33699,4689,2026-06-26 01:26:05+00:00
+fairseq,facebookresearch,Facebook AI Research Sequence-to-Sequence Toolkit written in Python.,Python,32235,6676,2026-06-26 15:59:07+00:00
+pytorch-lightning,Lightning-AI,"Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",Python,31205,3746,2026-06-26 15:13:12+00:00
+AI-Expert-Roadmap,AMAI-GmbH,Roadmap to becoming an Artificial Intelligence Expert in 2022,JavaScript,31097,2578,2026-06-26 10:01:24+00:00
+Jobs_Applier_AI_Agent_AIHawk,feder-cr,"AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.",Python,29947,4583,2026-06-26 14:49:11+00:00
+sim,simstudioai,"Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",TypeScript,28868,3677,2026-06-26 14:09:17+00:00
+machine-learning-for-software-engineers,ZuzooVn,A complete daily plan for studying to become a machine learning engineer.,,28801,6162,2026-06-26 15:26:35+00:00
+awesome-ai-agents,e2b-dev,A list of AI autonomous agents,,28492,3071,2026-06-26 16:38:15+00:00
+semantic-kernel,microsoft,Integrate cutting-edge LLM technology quickly and easily into your apps,C#,28201,4663,2026-06-26 16:19:21+00:00
+h4cker,The-Art-of-Hacking,"This repository is maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), AI security, vulnerability research, exploit development, reverse engineering, and more. 🔥 Also check: https://hackertraining.org",Jupyter Notebook,27936,5217,2026-06-26 16:18:09+00:00
+InvokeAI,invoke-ai,"Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",TypeScript,27525,2875,2026-06-26 12:02:28+00:00
+Hands-On-Large-Language-Models,HandsOnLLM,"Official code repo for the O'Reilly Book - ""Hands-On Large Language Models""",Jupyter Notebook,27246,6341,2026-06-26 13:27:19+00:00
+repomix,yamadashy,"📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",TypeScript,26592,1391,2026-06-26 17:22:15+00:00
+strix,usestrix,Open-source AI hackers to find and fix your app’s vulnerabilities.,Python,26207,2949,2026-06-26 17:10:09+00:00
+vit-pytorch,lucidrains,"Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",Python,25364,3511,2026-06-26 13:23:59+00:00
+ai,vercel,"The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",TypeScript,25157,4661,2026-06-26 17:26:45+00:00
+cs249r_book,harvard-edge,Machine Learning Systems,Python,25021,3005,2026-06-26 17:21:02+00:00
