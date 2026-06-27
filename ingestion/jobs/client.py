@@ -1,6 +1,5 @@
-import json
-
 from service import fetch_jobs_data
+import json
 
 
 def save_raw_data(data):
@@ -16,13 +15,37 @@ def save_raw_data(data):
 
 def extract_job_data(data):
     """
-    Extract only the required job fields.
+    Extract only AI-related job fields.
     """
+
+    ai_keywords = [
+        "artificial intelligence",
+        "machine learning",
+        "ml",
+        "data engineer",
+        "data scientist",
+        "python",
+        "deep learning",
+        "nlp",
+        "computer vision",
+        "llm",
+        "generative ai",
+        "mlops",
+        "tensorflow",
+        "pytorch",
+    ]
 
     clean_data = []
 
     # Skip the first metadata object
     for job in data[1:]:
+
+        # Get the job title safely
+        title = job.get("position", "").lower()
+
+        # Skip jobs that are not AI-related
+        if not any(keyword in title for keyword in ai_keywords):
+            continue
 
         job_data = {
             "job_id": job.get("id"),
@@ -41,7 +64,7 @@ def extract_job_data(data):
 
 def save_processed_data(clean_data):
     """
-    Save cleaned job data to a JSON file.
+    Save cleaned AI job data to a JSON file.
     """
 
     with open("data/processed/jobs/jobs.json", "w") as file:
@@ -69,9 +92,13 @@ def main():
     # Save processed data
     save_processed_data(clean_data)
 
-    # Display processed jobs
-    print("\n💼 Latest AI Jobs")
+    # Display processed AI jobs
+    print("\n🤖 Latest AI Jobs")
     print("=" * 80)
+
+    if not clean_data:
+        print("No AI jobs found in today's Remote OK feed.")
+        return
 
     for job in clean_data[:10]:
         print(f"{job['job_title']} | {job['company']}")

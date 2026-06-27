@@ -1,0 +1,489 @@
+{
+    "status": "OK",
+    "request_id": "3d101a2b-e81d-4dcc-91a4-c5347ab2a0ec",
+    "parameters": {
+        "query": "Machine Learning Engineer",
+        "num_pages": 1,
+        "country": "us",
+        "language": "en"
+    },
+    "data": {
+        "jobs": [
+            {
+                "job_id": "WTNA0MlRYqIF5XWFAAAAAA==",
+                "job_title": "Machine Learning Engineer, ASE Search Team",
+                "employer_name": "Apple",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaNSu_BGFxNKuutpkzktjyB3s384Gnq6Fab2XA&s=0",
+                "employer_website": "https://www.apple.com",
+                "job_publisher": "Ladders",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.theladders.com/job/machine-learning-engineer-ase-search-team-apple-washington-dc_87282741",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.theladders.com/job/machine-learning-engineer-ase-search-team-apple-washington-dc_87282741",
+                        "is_direct": false,
+                        "publisher": "Ladders"
+                    }
+                ],
+                "job_description": "As a Machine Learning Engineer on the Video Search team, within the Apple Services Engineering AI/ML organization, you will design and deploy large-scale ML systems that power search and discovery across Apple platforms.\n\nYou'll apply machine learning, natural language understanding, and generative AI to model user intent and deliver relevant, personalized results. Your work will involve building and optimizing cutting edge data processing, ML models, retrieval pipelines, and ranking systems that operate at global scale and under strict privacy standards.\n\nThis is a hands-on role where you will collaborate closely with cross-functional teams to bring advanced ML technologies into production-shaping how users discovery content they love in Apple TV app, cross Apple TV partners on Apple Platforms, also through Siri and Spotlight.\n\nExperience in machine learning, NLP, IR, or more recently Large Language Model ( LLMs).\nStrong programming skills in Python, Java and Go for building scalable ML systems.\nHands-on expertise in ML libraries such as PyTorch, JAX, TensorFlow for model training and deployment.\nAbility to translate product goals into technical solutions, improving user experience.\nStrong communication, collaboration, and analytical problem-solving skills.\nIn-depth knowledge of search and information retrieval fundamentals, including indexing and ranking. Experience with retrieval and ranking algorithms and building big data pipelines using Hadoop, Java, Scala, Spark and more.\nIndustrial experience in search, classification, recommendation systems, or related fields.\nFamiliarity with A/B testing and data-driven product development.\nPassionate about creating products loved by customers at Apple.\nBachelor's degree or higher (or equivalent practical experience) in Computer Science, Machine Learning, Natural Language Processing, Artificial Intelligence, or a related field.\n\nExperience with search or recommendation systems, and semantic retrieval or vector databases.\nExpertise in transformer architectures, embeddings, and retrieval or ranking models.\nExperience in applying or fine-tuning LLMs for understanding and generation tasks. Familiarity with prompt design, context management, RAG and Agentic architectures and solutions.\nExposure to evaluation and safety frameworks for LLM-based systems.\nKnowledge of reinforcement learning and other modern post training practices for LLMs.\nPassion for developing intelligent, human-centered experiences to enhance content discovery.",
+                "job_is_remote": false,
+                "job_posted_at": "15 days ago",
+                "job_posted_at_timestamp": 1781222400,
+                "job_posted_at_datetime_utc": "2026-06-12T00:00:00.000Z",
+                "job_location": "Washington, DC",
+                "job_city": "Washington",
+                "job_state": "District of Columbia",
+                "job_country": "US",
+                "job_latitude": 38.9072873,
+                "job_longitude": -77.0369274,
+                "job_benefits": null,
+                "job_benefits_strings": null,
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWTNA0MlRYqIF5XWFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": "120K\u2013160K a year",
+                "job_min_salary": 120000,
+                "job_max_salary": 160000,
+                "job_salary_period": "YEAR",
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "gGXZRQPGGEUsFyueAAAAAA==",
+                "job_title": "Generative AI & Machine Learning Engineer",
+                "employer_name": "Thomson Reuters",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSLdYOLGUCipJf6wVBQSSo1woMRg5pemxcqwB6&s=0",
+                "employer_website": "https://www.thomsonreuters.com",
+                "job_publisher": "LinkedIn",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineer-at-thomson-reuters-4349250403",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineer-at-thomson-reuters-4349250403",
+                        "is_direct": false,
+                        "publisher": "LinkedIn"
+                    }
+                ],
+                "job_description": "Are you passionate about the chance to bring your data quality improvement experience to a world class organization that is leading the way in both content and technology to serve and protect our citizens home and abroad? Do you have the skills necessary to manage, understand, and analyze inhouse and customer data including text mining, developing predictive systems, risk scoring, creating efficient algorithms, data quality improvement and other related activities? Then Thomson Reuters Special Services (TRSS) is looking for you!\n\nAbout The Role\n\nAs a Generative AI and Machine Learning Engineer, you will be responsible for supporting product development efforts that range from generative AI and machine learning application development and deployment to model development and monitoring, ML management and DevOps. You will be a contributing member of a Software Engineering team that supports production applications and also helping to develop new features and models.\n\nThe role will interface with internal and external stakeholders and provide continuity of technical and data-exploration expertise to ensure we are delivering a workable solution that meets the customer requirements and technical capabilities. The position requires a proactive, mission-oriented person who strives to produce the best possible work for the customer.\n\nAs a Generative AI and Machine Learning Engineer, you will:\n\n\u2022 Experiment and Develop: You will drive the end-to-end model development lifecycle, championing best practices to ensure reproducible research and well-managed software delivery.\n\u2022 Collaborate: Working on a collaborative cross-functional team, you will share information, value diverse ideas, and partner effectively with colleagues across the globe. You will elevate and mentor teammates. You will work closely with product teams to see your work integrated and deployed into production environments.\n\u2022 Deliver: With a sense of urgency and the desire to work in a fast-paced, dynamic environment, you will translate complex business problems into projects with clearly defined scope. Our problems are complex; our solutions are right-sized. You will be accountable for timely, well-managed deliverables.\n\u2022 Innovate: You will be empowered to try new approaches and learn new technologies. You will foster innovative ideas to solve real-world challenges. You will iterate on improvement rapidly with a mindset for failing fast and learning continuously from data.\n\u2022 Inspire: You will be a proactive communicator who is excited to share your work. You will be articulate and compelling in describing ideas to both technical and non-technical audiences. You will help lead the way in the adoption of AI across the enterprise.\n\nAbout You\n\nYou're a good fit for the role of Generative AI & Machine Learning Engineer if you have:\n\n\u2022 Master\u2019s or Bachelor\u2019s in a relevant discipline. Relevant experience will be considered in lieu of a degree\n\u2022 Proficiency in Python\n\u2022 At least 3+ years practical, relevant experience building AI/ML products and applications and recent demonstratable experience using Generative AI technologies such as RAG patterns, ReAct, LangChain etc for performing document summarization, knowledge graphs, information extraction, or analysis.\n\u2022 Solid software engineering skills and experience\n\u2022 Experience as a technical leader, leading aspects of the following :aiding in the ideation with product stakeholders, comfort in dealing with uncertainty and ambiguity in problem statements and paths to success, breaking down complex problems into tractable components with iterative improvements, formulating research and development plans, coordinating and working with others, communication of progress and plans with varied stakeholders\n\u2022 Hands on coding experience on AI/ML projects in current role and experience in designing, developing, and implementing machine learning models and algorithms\n\u2022 Ability to obtain and maintain a U.S. national security clearance\n\u2022 U.S. Citizenship essential to comply with government contract/agency or department of Federal Government requirements\n\nThe following skills and tools are preferred, but not required\n\n\u2022 6+ years practical experience using AI and ML to solve diverse and/or ambiguous problems in academia or industry\n\u2022 Experience with AI Agent frameworks and patterns\n\u2022 Familiarity with common NLP use cases such as chatbot development and information retrieval (RAG), language translation, NER, summarization and topic modeling\n\u2022 Familiarity with LLM training and efficient finetuning (PEFT, LoRA, Quantization)\n\u2022 Experience with NLP/CV libraries such as PyTorch, TensorFlow, Scikit-learn, spaCy, HuggingFace Transformers/Diffusers, OpenAI, LangChain, Semantic Kernel & OpenCV\n\u2022 Experience using Cloud solutions (AWS, Azure, etc.) for building and deploying applications\n\u2022 Experience in a fast-paced, agile environment managing uncertainty and ambiguity.\n\u2022 Proficiency in Python and experience delivering minimum viable products in a large enterprise environment\n\u2022 Experience developing libraries and APIs for others to use\n\u2022 Outstanding communication and data-driven decision-making collaboration with Product + Business Stakeholders\n\u2022 Diverse experiences across problem spaces, companies and cultures\n\nWhat\u2019s in it For You?\n\n\u2022 Hybrid Work Model: We\u2019ve adopted a flexible hybrid working environment (2-3 days a week in the office depending on the role) for our office-based roles while delivering a seamless experience that is digitally and physically connected.\n\u2022 Flexibility & Work-Life Balance: Flex My Way is a set of supportive workplace policies designed to help manage personal and professional responsibilities, whether caring for family, giving back to the community, or finding time to refresh and reset. This builds upon our flexible work arrangements, including work from anywhere for up to 8 weeks per year, empowering employees to achieve a better work-life balance.\n\u2022 Career Development and Growth: By fostering a culture of continuous learning and skill development, we prepare our talent to tackle tomorrow\u2019s challenges and deliver real-world solutions. Our Grow My Way programming and skills-first approach ensures you have the tools and knowledge to grow, lead, and thrive in an AI-enabled future.\n\u2022 Industry Competitive Benefits: We offer comprehensive benefit plans to include flexible vacation, two company-wide Mental Health Days off, access to the Headspace app, retirement savings, tuition reimbursement, employee incentive programs, and resources for mental, physical, and financial wellbeing.\n\u2022 Culture: Globally recognized, award-winning reputation for inclusion and belonging, flexibility, work-life balance, and more. We live by our values: Obsess over our Customers, Compete to Win, Challenge (Y)our Thinking, Act Fast / Learn Fast, and Stronger Together.\n\u2022 Social Impact: Make an impact in your community with our Social Impact Institute. We offer employees two paid volunteer days off annually and opportunities to get involved with pro-bono consulting projects and Environmental, Social, and Governance (ESG) initiatives.\n\u2022 Making a Real-World Impact:\u202fWe are one of the few companies globally that helps its customers pursue justice, truth, and transparency. Together, with the professionals and institutions we serve, we help uphold the rule of law, turn the wheels of commerce, catch bad actors, report the facts, and provide trusted, unbiased information to people all over the world.\n\nIn the United States, Thomson Reuters offers a comprehensive benefits package to our employees. Our benefit package includes market competitive health, dental, vision, disability, and life insurance programs, as well as a competitive 401k plan with company match. In addition, Thomson Reuters offers market leading work life benefits with competitive vacation, sick and safe paid time off, paid holidays (including two company mental health days off), parental leave, sabbatical leave. These benefits meet or exceeds the requirements of paid time off in accordance with any applicable state or municipal laws. Finally, Thomson Reuters offers the following additional benefits: optional hospital, accident and sickness insurance paid 100% by the employee; optional life and AD&D insurance paid 100% by the employee; Flexible Spending and Health Savings Accounts; fitness reimbursement; access to Employee Assistance Program; Group Legal Identity Theft Protection benefit paid 100% by employee; access to 529 Plan; commuter benefits; Adoption & Surrogacy Assistance; Tuition Reimbursement; and access to Employee Stock Purchase Plan.\n\nThomson Reuters complies with local laws that require upfront disclosure of the expected pay range for a position. The base compensation range varies across locations. Eligible office location(s) for this role include one or more of the following: New York City, San Francisco, Los Angeles, and/or Irvine, CA; McLean, VA; Washington, DC. The base compensation range for the role in any of those locations is $136,000 USD - $253,000 USD. Base pay is positioned within the range based on several factors including an individual\u2019s knowledge, skills and experience with consideration given to internal equity. Base pay is one part of a comprehensive Total Reward program which also includes flexible and supportive benefits and other wellbeing programs. This role may also be eligible for an Annual Bonus based on a combination of enterprise and individual performance.\n\nAbout Us\n\nThomson Reuters informs the way forward by bringing together the trusted content and technology that people and organizations need to make the right decisions. We serve professionals across legal, tax, accounting, compliance, government, and media. Our products combine highly specialized software and insights to empower professionals with the data, intelligence, and solutions needed to make informed decisions, and to help institutions in their pursuit of justice, truth, and transparency. Reuters, part of Thomson Reuters, is a world leading provider of trusted journalism and news.\n\nWe are powered by the talents of 26,000 employees across more than 70 countries, where everyone has a chance to contribute and grow professionally in flexible work environments. At a time when objectivity, accuracy, fairness, and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.\n\nAs a global business, we rely on the unique backgrounds, perspectives, and experiences of all employees to deliver on our business goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity Employer providing a drug-free workplace.\n\nThomson Reuters makes reasonable accommodations for applicants with disabilities, including veterans with disabilities, and for sincerely held religious beliefs in accordance with applicable law. If you reside in the United States and require an accommodation in the recruiting process, you may contact our Human Resources Department at HR.Leave-Expert@thomsonreuters.com. Disability accommodations in the recruiting process may include things like a sign language interpreter, making interview rooms accessible, providing assistive technology, or other relevant accommodations. Please note this email is not intended for general recruitment questions and we will promptly respond to inquiries regarding accommodations. More information on requesting an accommodation here.\n\nLearn more on how to protect yourself from fraudulent job postings here.\n\nMore information about Thomson Reuters can be found on thomsonreuters.com",
+                "job_is_remote": false,
+                "job_posted_at": "7 days ago",
+                "job_posted_at_timestamp": 1781913600,
+                "job_posted_at_datetime_utc": "2026-06-20T00:00:00.000Z",
+                "job_location": "McLean, VA",
+                "job_city": "McLean",
+                "job_state": "Virginia",
+                "job_country": "US",
+                "job_latitude": 38.9338676,
+                "job_longitude": -77.1772604,
+                "job_benefits": [
+                    "health_insurance",
+                    "dental_coverage",
+                    "paid_time_off"
+                ],
+                "job_benefits_strings": [
+                    "Health insurance",
+                    "Dental insurance",
+                    "Paid time off"
+                ],
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgGXZRQPGGEUsFyueAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": null,
+                "job_min_salary": null,
+                "job_max_salary": null,
+                "job_salary_period": null,
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "dFNe1kbjCU8PbHt1AAAAAA==",
+                "job_title": "Senior Machine Learning Engineer - SAIL",
+                "employer_name": "Carnegie Mellon University Software Engineering Institute",
+                "employer_logo": null,
+                "employer_website": null,
+                "job_publisher": "Monster",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.monster.com/job-openings/senior-machine-learning-engineer-sail-arlington-va--ed2d77cf-ff7d-4550-8a1f-1285e0be2dc5",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.monster.com/job-openings/senior-machine-learning-engineer-sail-arlington-va--ed2d77cf-ff7d-4550-8a1f-1285e0be2dc5",
+                        "is_direct": false,
+                        "publisher": "Monster"
+                    }
+                ],
+                "job_description": "At the SEI AI Division, we conduct research in applied artificial intelligence and the engineering questions related to the practical design and implementation of AI technologies and systems. We currently lead a community-wide movement to mature the discipline of AI Engineering for Defense and National Security. As our government customers adopt AI and machine learning to provide leap-ahead mission capabilities, we build real-world, mission-scale AI capabilities through solving practical engineering problems discover and define the processes, practices, and tools to support operationalizing AI for robust, secure, scalable, and human-centered mission capabilities prepare our customers to be ready for the unique challenges of adopting, deploying, using, and maintaining AI capabilities identify and investigate emerging AI and AI-adjacent technologies that are rapidly transforming the technology landscape Are you creative, curious, energetic, collaborative, technology-focused, and hard-working? Are you interested in making a difference by bringing innovation to government organizations and beyond? Apply to join our team. Overview: As a Senior Machine Learning Engineer, you will specialize in engineering solutions that support research into the vulnerabilities of AI and ML algorithms and securing against those vulnerabilities. The Secure AI Lab within the SEI's AI Division focuses on improving the security and robustness of AI systems. As part of the world-class research community at Carnegie Mellon University, the Secure AI Lab conducts and applies cutting-edge research to protect AI systems from adversaries who aim to manipulate the system to learn, do, or reveal something it isn't supposed to. The Secure AI Lab consists of machine learning research scientists, machine learning engineers, and software developers who work together to solve problems in the following areas: Counter AI Research: Study threat models targeting AI and ML algorithms, understand the behaviors of AI algorithms, identify weak points, and design novel ways to subvert AI and ML systems. AI and ML Algorithm Defense Research: Create practical mitigations and defenses for observed attacks affecting AI and ML algorithms and evaluate the effectiveness of defensive techniques. Applied Adversarial Machine Learning: Advance the state of the art in adversarial machine learning by developing and transitioning capabilities to government sponsors. As an engineer, you will solve problems for government sponsors by analyzing, designing, and building responsible AI systems. Your day-to-day engineering tasks will include: Identifying and investigating emerging AI and AI-adjacent technologies. Defining and refining processes, practices, and tools for working with AI. Designing and building well-engineered prototypes of AI systems. Transitioning and providing guidance on AI capabilities to government sponsors. Duties Building Machine Learning Models and Systems: You will work with machine learning frameworks such as TensorFlow, PyTorch, Torch, and Caffe and modern programming languages including Python, C/C++, and Java. You will build and work with data pipelines, ETL processes, and backend systems. You will work with, extend, and implement state-of-the-art machine learning methods.\u202f\u202f\u202f Technical Experimentation: You will experiment with modern and emerging machine learning frameworks, methods, and algorithms in application domains that include computer vision, natural language processing, planning and scheduling, robot control, and engineering safe, trusted, and reliable machine learning systems. Testing and evaluation. You''ll conduct rapid prototyping to demonstrate and evaluate technologies in relevant environments. You''ll evaluate systems for performance and security. You''ll test capabilities using novel testing and analysis techniques. Collaboration. You''ll actively participate on teams of developers, researchers, designers, and technical leads. You''ll collaborate with researchers and our government customers to understand challenges, needs, and possible solutions. Mentoring. You''ll contribute to improving the overall technical capabilities of the Division by mentoring and teaching others, participating in design (software and otherwise) sessions, and sharing insights and wisdom across the SEI. Knowledge and Experience Comprehensive knowledge of machine learning; previous experience in adversarial machine learning desirable but not required A track record of using well-established engineering practices to solve difficult problems An understanding of how to convert research results into functioning prototypes or capabilities Experience leading technical projects in novel areas with limited previous work to build upon Strong written and verbal communication skills; able to convey complex technical ideas in a layperson's terms Ample experience with publishing written or technical artifacts showcasing your work Strong collaboration skills for working with colleagues and sponsors Willingness to guide and mentor junior team members Requirements A bachelor's degree in computer science, statistics, machine learning, electrical engineering, or related discipline with ten (10) years of experience; OR MS in the same fields with eight (8) years of experience; OR PhD in with five (5) years of experience. Willingness to work onsite 5 days per week at SEI offices in Pittsburgh, PA or Arlington, VA.Be able to obtain and maintain an active Department of War security clearance. Willing to travel up to 25% of the time to locations outside of your home location. Travel sites include SEI offices in Pittsburgh and Washington, D.C., sponsor sites, and conferences. LocationArlington, VA, Pittsburgh, PAJob FunctionSoftware/Applications Development/EngineeringPosition TypeStaff - RegularFull time/Part timeFull timePay BasisSalaryMore Information: Please visit \"Why Carnegie Mellon\" to learn more about becoming part of an institution inspiring innovations that change the world. Click here to view a listing of employee benefitsCarnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran. Statement of Assurance\n\nSkills:\nAlgorithms, Analysis Skills, Artificial Intelligence (AI), C Programming Language, C++ Programming Language, Calendar Management, Communication Skills, Computer Science, Computer Security, Computer Vision, Conferences, Customer Acquisition, Data Management, Database Extract Transform and Load (ETL), Electrical Engineering, Government, Government Organizations, Java, Leadership, Machine Learning, Mentoring, Natural Language Processing (NLP), Needs Assessment, People Management, Performance Analysis, Presentation/Verbal Skills, Problem Solving Skills, Programming Languages, Prototyping, Python Programming/Scripting Language, Quality Assurance Methodology, Rapid Prototyping, Research Skills, Scientific Research, Software Design, Software Development, Statistics, System Test, Systems Engineering, Team Player, Technical Leadership, Technical Publications, Technical/Engineering Design, Threat Modeling, Training/Teaching, Writing Skills\n\nAbout the Company:\nCarnegie Mellon University Software Engineering Institute",
+                "job_is_remote": false,
+                "job_posted_at": null,
+                "job_posted_at_timestamp": null,
+                "job_posted_at_datetime_utc": null,
+                "job_location": "Arlington, VA",
+                "job_city": "Arlington",
+                "job_state": "Virginia",
+                "job_country": "US",
+                "job_latitude": 38.8816208,
+                "job_longitude": -77.09098089999999,
+                "job_benefits": null,
+                "job_benefits_strings": null,
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdFNe1kbjCU8PbHt1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": null,
+                "job_min_salary": null,
+                "job_max_salary": null,
+                "job_salary_period": null,
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "SRJXRg6TUiw6lIB6AAAAAA==",
+                "job_title": "junior AI & Machine Learning Engineer",
+                "employer_name": "SynergisticIT",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VtniVUbKmm6sodvNlyOrLHqqUkrWrkteL9nK&s=0",
+                "employer_website": "https://www.synergisticit.com",
+                "job_publisher": "Lensa",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://lensa.com/job-v1/synergisticit/arlington-va/junior-machine-learning-engineer/92c70de9fe63ad71599085ee44a6ebce",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://lensa.com/job-v1/synergisticit/arlington-va/junior-machine-learning-engineer/92c70de9fe63ad71599085ee44a6ebce",
+                        "is_direct": false,
+                        "publisher": "Lensa"
+                    }
+                ],
+                "job_description": "Applied Everywhere? Still No Interviews or Offers? Let's Fix the Missing Link.\"\nIf you've sent out hundreds-maybe thousands-of applications and your inbox is still silent, it doesn't mean you're not capable. It usually means your profile isn't lining up with how companies filter, shortlist, and interview candidates right now. In today's market, employers expect more than a degree or a few tutorial\u00a0projects. They want candidates who look job-ready on paper, sound confident in interviews, and demonstrate hands-on ability in the tools teams actually use. That's exactly what SynergisticIT's JOPP is built to solve-because the real challenge isn't learning in isolation. The real challenge is translating learning into interviews and offers.\nSince 2010, SynergisticIT has helped thousands of candidates secure full-time roles with leading companies and recognizable brands-think Google, Apple, PayPal, Visa, Western Union, Wells Fargo, Client, Walmart Labs, Client, Banking, Client, Wayfair, and many more-often in the $95k to $154k offer range depending on role, location, and skillset. The purpose of SynergisticIT's JOPP is simple: close the gap between what you know and what employers expect you to prove. That gap is where most bootcamps leave you stranded.\nHere's the truth most bootcamps won't say out loud: training alone doesn't win offers. Many programs teach \"just enough to build a demo,\" but employers hire based on whether you can handle real work-clean coding, debugging, teamwork workflows, version control, APIs, cloud basics, deployment pipelines, and the ability to explain what you did. That's why SynergisticIT positions JOPP as a Job Placement Program, not just a bootcamp. The program emphasizes structured skill-building, project depth, resume positioning, interview readiness, and support through the job-search process.\nWhat roles are in demand right now?\nA lot of jobseekers assume they must become \"AI experts\" overnight. Not true. Many companies are actively hiring professionals in core roles that run modern software teams. In JOPP, the demand typically includes roles such as entry-level software programmer, Java full stack developer, Python/Java developer, data analyst, data engineer, data scientist, and machine learning/AI engineer. In other words, SynergisticIT focuses on building candidates across Java / Full Stack / DevOps and Data Analytics / Data Engineering / Data Science / ML/AI based on what employers repeatedly request.\nWho benefits most from this model?\nIf you're applying and not seeing results, you're likely in one of these situations:\n\u2022 You have skills, but your resume doesn't show impact and your projects look generic\n\u2022 You know tools, but you can't explain them confidently in interviews\n\u2022 You've learned from courses, but you lack real-world structure and job alignment\n\u2022 You've built a portfolio, but it doesn't match what hiring managers evaluate\nSynergisticIT works especially well for candidates such as: recent grads in CS/Engineering/Math/Stats, jobseekers who were laid off and need an updated stack, career switchers who want a guided plan, candidates with career gaps, people with \"learning but not hired\" bootcamp history, experienced professionals not landing interviews, and international candidates on F1/OPT needing a clear employment pathway. SynergisticIT also supports candidates with guidance around STEM extension, and provides process support for H-1B and Green Card filing once employed (as applicable through employers and standard processes).\nIf you're reading this and thinking, \"I've already done a bootcamp,\" you're not alone. SynergisticIT often sees candidates join after trying other bootcamps, Udemy/Coursera tracks, or university bootcamps-then realizing the missing piece was job-placement execution. Many programs focus on teaching; SynergisticIT focuses on getting you hired.\nIf you want to explore the program directly, here are the key links:\n\u2022 Job Placement Program (JOPP):\n\u2022 Java Job Placement Program\n\u2022 Data Science / Data Jobs Program\n\u2022 Event videos (OCW, JavaOne, Gartner):\n\u2022 USA Today feature\n\u2022 Contact Us (Fill the Form): https://www.synergisticit.com/contact-us/\nYou don't need more random applications. You need a job-ready plan. Start smarter-start with the right support.\nPlease read our blogs\n\nWhy do Tech Companies not Hire recent Computer Science Graduates | SynergisticIT\nWhat Recruiters Look for in Junior Developers | SynergisticIT\nSoftware engineering or Data Science as a career?\nHow OPT Students Can Land Tech Jobs - SynergisticIT",
+                "job_is_remote": false,
+                "job_posted_at": null,
+                "job_posted_at_timestamp": null,
+                "job_posted_at_datetime_utc": null,
+                "job_location": "Arlington, VA",
+                "job_city": "Arlington",
+                "job_state": "Virginia",
+                "job_country": "US",
+                "job_latitude": 38.8816208,
+                "job_longitude": -77.09098089999999,
+                "job_benefits": null,
+                "job_benefits_strings": null,
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSRJXRg6TUiw6lIB6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": null,
+                "job_min_salary": null,
+                "job_max_salary": null,
+                "job_salary_period": null,
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "A561cuZDWIZt8HIlAAAAAA==",
+                "job_title": "AI/ML Engineer and Data Scientist",
+                "employer_name": "Booz Allen Hamilton",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0",
+                "employer_website": "https://www.boozallen.com",
+                "job_publisher": "LinkedIn",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-and-data-scientist-at-booz-allen-hamilton-4423099407",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.linkedin.com/jobs/view/ai-ml-engineer-and-data-scientist-at-booz-allen-hamilton-4423099407",
+                        "is_direct": false,
+                        "publisher": "LinkedIn"
+                    }
+                ],
+                "job_description": "Job Number: R0241401\n\nAI/ML Engineer and Data Scientist\n\nThe Opportunity:\n\nAs a data scientist, you\u2019re excited at the prospect of unlocking the secrets held by a data set, and you\u2019re fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors\u2014from fraud detection to cancer research to national intelligence\u2014we need you to help find the answers in the data.\n\nOn our team, you\u2019ll use your leadership skills and data science expertise to create real-world impact. You\u2019ll work closely with clients to understand their questions and needs and then dig into their data-rich environments to find the pieces of their information puzzle. You\u2019ll guide teammates and lead the development of algorithms and systems. You\u2019ll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions. Ultimately, you\u2019ll provide a deep understanding of the data, what it all means, and how it can be used.\n\nWork with us as we use data science for good.\n\nJoin us. The world can\u2019t wait.\n\nYou Have:\u202f\u202f\n\n\u2022 3+ years of experience with statistical and general-purpose programming languages for data analysis\n\u2022 3+ years of experience analyzing structured and unstructured data sources\n\u2022 Experience with data exploration, data cleaning, data analysis, data visualization, or data mining\n\u2022 Experience developing predictive data models, quantitative analyses and visualization of targeted data sources\n\u2022 Experience with natural language processing, text mining, or machine learning techniques\n\u2022 Experience with REST APIs, webhooks, and automation middleware\n\u2022 Experience integrating enterprise systems, such as Jira, Confluence, APIs, or in-house platforms\n\u2022 Knowledge of AI and ML workflows leveraging existing AI and ML tools\n\u2022 TS/SCI clearance\n\u2022 Bachelor\u2019s degree\n\nNice If You Have:\u202f\u202f\n\n\u2022 Experience in the development of algorithms leveraging CDS, Gitlab, CI/CD, Argo CD, R, Python, or SQL and NoSQL\n\u2022 Experience with distributed data and computing tools, including MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL\u202f\n\u2022 Experience with visualization packages, including Palantir, Plotly, Seaborn, or ggplot2\n\u2022 Master's degree\n\nClearance:\u202f\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.\u202f\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen\u2019s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\nSalary at Booz Allen is determined by various factors, including but not limited to location, the individual\u2019s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen\u2019s total compensation package for employees. This posting will close within 90 days from the Posting Date.\n\nIdentity Statement\n\nAs part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.\n\nCandidate AI Usage Policy\n\nAI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided.\n\nWork Model\n\nOur people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.\n\n\u2022 Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.\n\u2022 Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.\n\u2022 Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.\n\nCommitment to Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",
+                "job_is_remote": false,
+                "job_posted_at": "2 days ago",
+                "job_posted_at_timestamp": 1782345600,
+                "job_posted_at_datetime_utc": "2026-06-25T00:00:00.000Z",
+                "job_location": "Fort Belvoir, VA",
+                "job_city": "Fort Belvoir",
+                "job_state": "Virginia",
+                "job_country": "US",
+                "job_latitude": 38.7188716,
+                "job_longitude": -77.15426839999999,
+                "job_benefits": [
+                    "health_insurance"
+                ],
+                "job_benefits_strings": [
+                    "Health insurance"
+                ],
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DA561cuZDWIZt8HIlAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": null,
+                "job_min_salary": null,
+                "job_max_salary": null,
+                "job_salary_period": null,
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "wnWmbQ4m3cbfZnc4AAAAAA==",
+                "job_title": "Staff Machine Learning Engineer - Generative AI",
+                "employer_name": "Xometry",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb-BqLZI7iPinbxJmSVHpIOBDFXwKivwM5NxOo&s=0",
+                "employer_website": "https://www.xometry.com",
+                "job_publisher": "Indeed",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.indeed.com/viewjob?jk=ebead57c296dcd57",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.indeed.com/viewjob?jk=ebead57c296dcd57",
+                        "is_direct": false,
+                        "publisher": "Indeed"
+                    }
+                ],
+                "job_description": "Xometry (NASDAQ: XMTR) powers the industries of today and tomorrow by connecting the people with big ideas to the manufacturers who can bring them to life. Xometry's digital marketplace gives manufacturers the critical resources they need to grow their business while also making it easy for buyers at Fortune 1000 companies to tap into global manufacturing capacity.\n\nXometry is seeking a Staff Machine Learning Engineer to lead our Generative AI efforts. This is a rare opportunity to shape the future of manufacturing by applying cutting-edge AI research to real-world problems: from multimodal document understanding, to extracting structured data from technical drawings, to building new ways of reasoning across text, images, and 3D data. If you're passionate about building state-of-the-art AI systems and want to see your work have immediate business and customer impact, we'd love to talk.\n\nResponsibilities:\n\n\u2022 Lead with vision \u2013 Set the technical direction for our Generative AI team, establish best practices, and inspire high-impact innovation.\n\n\u2022 Drive strategy \u2013 Help shape the AI roadmap, identifying the most valuable opportunities to apply generative AI across Xometry's marketplace.\n\n\u2022 Build cutting-edge models \u2013 Develop and deploy large language and generative models for multimodal document processing and structured data extraction.\n\n\u2022 Innovate across modalities \u2013 Explore new ways to combine text, images, and 3D data to unlock smarter, faster solutions.\n\n\u2022 Engineer at scale \u2013 Create data pipelines and training workflows that can handle massive, complex datasets.\n\n\u2022 Deploy in the cloud \u2013 Use AWS and other platforms to train, optimize, and deploy models into production at scale.\n\n\u2022 Collaborate widely \u2013 Work with engineers, product leaders, and business teams to bring AI solutions into real products and customer workflows.\n\n\u2022 Mentor and grow \u2013 Guide teammates on advanced ML methods, model architecture, and best practices, elevating the entire team.\n\n\u2022 Stay ahead \u2013 Keep up with the latest generative AI and deep learning research, and bring fresh ideas into production.\n\nQualifications:\n\n\u2022 Bachelor's degree required; advanced degree (M.S. or PhD) in Computer Science, Machine Learning, AI, or related field is a big plus.\n\n\u2022 5+ years of experience in machine learning or data science, with deep expertise in generative models, LLMs, or computer vision.\n\n\u2022 Strong track record working with large-scale language and vision models (Transformers, GPT, VLMs).\n\n\u2022 Hands-on experience with multimodal data (text, images, 3D).\n\n\u2022 Proficiency in Python and key ML libraries (PyTorch, TensorFlow, pandas, NumPy).\n\n\u2022 Solid grounding in probability, statistics, and optimization for generative modeling.\n\n\u2022 Experience deploying ML and AI models using cloud microservice architecture (AWS preferred).\n\n\u2022 Strong software engineering skills, including object oriented programming, testing, version control, CI/CD best practices and IaC (terraform preferred).\n\n\u2022 A proven ability to communicate effectively with all levels of the organization, from executives to product managers and various stakeholders.\n\n\u2022 Background in manufacturing, supply chain, or related industries is a plus \u2014 but curiosity and drive matter more.\n\n\u2022 Must be a U.S. Citizen or Green Card holder (ITAR compliance)\n\nThe estimated base salary range for new hires into this role is $140,000-$230,000 annually + annual bonus depending on factors such as job-related skills, relevant experience, and location. We also offer a competitive benefits package, including 401(k) match, medical, dental and vision insurance; life and disability insurance; generous paid time off including vacation, sick leave, floating and fixed holidays, maternity and bonding leave; EAP, other wellbeing resources; and much more.\n\n#LI-Hybrid\n\nXometry is an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.\n\nFor US based roles: Xometry participates in E-Verify and after a job offer is accepted, will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S.",
+                "job_is_remote": false,
+                "job_posted_at": null,
+                "job_posted_at_timestamp": null,
+                "job_posted_at_datetime_utc": null,
+                "job_location": "Gaithersburg, MD",
+                "job_city": "Gaithersburg",
+                "job_state": "Maryland",
+                "job_country": "US",
+                "job_latitude": 39.1439689,
+                "job_longitude": -77.2016062,
+                "job_benefits": [
+                    "paid_time_off",
+                    "dental_coverage",
+                    "health_insurance"
+                ],
+                "job_benefits_strings": [
+                    "Paid time off",
+                    "Dental insurance",
+                    "Health insurance"
+                ],
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwnWmbQ4m3cbfZnc4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": "140K\u2013230K a year",
+                "job_min_salary": 140000,
+                "job_max_salary": 230000,
+                "job_salary_period": "YEAR",
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "_y15QzloGbUzVixrAAAAAA==",
+                "job_title": "Senior Machine Learning Lead (GenAI, Python) ML, AI \ud83c\udfc6",
+                "employer_name": "Capital One",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiacIz_Zejp3HEmrHGyPZmttMZycAWEryLHGv&s=0",
+                "employer_website": "https://www.capitalone.com",
+                "job_publisher": "DevITjobs",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://devitjobs.com/jobs/Capital-One-Senior-Machine-Learning-Lead-GenAI-Python",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://devitjobs.com/jobs/Capital-One-Senior-Machine-Learning-Lead-GenAI-Python",
+                        "is_direct": false,
+                        "publisher": "DevITjobs"
+                    }
+                ],
+                "job_description": "Senior Machine Learning Lead (GenAI, Python) \ud83d\udcb0 Salary: $209,000 - 262,400 per year\n\nAt Capital One we are looking for a ML, AI engineer!\n\n\ud83d\udee0\ufe0f Our tech stack:\nAI, AWS, Azure, Big Data, Cloud, Support, Java, Machine Learning, PyTorch, Python, Scala, Spark, TensorFlow, Machine-Learning\n\n\ud83d\udcdd Rquirements:\n- Bachelors Degree in related field\n- Minimum of 8 years of experience in designing and developing\u00a0data-intensive solutions utilizing distributed computing (Internships not included)\n- At least 4 years of programming experience with Python, Scala, or Java\n- At least 3 years of experience in constructing, scaling, and optimizing machine learning systems\n- Minimum of 2 years of experience in leading teams focused on machine learning solutions\n- Masters or doctoral degree in computer science, electrical engineering, mathematics, or a related discipline is preferred\n- Experience in deploying machine learning solutions in a public cloud environment such as AWS, Azure, or Google Cloud Platform is advantageous\n- Over 4 years of hands-on experience with recognized machine learning frameworks like scikit-learn, PyTorch, Dask, Spark, or TensorFlow\n- More than 3 years of experience writing efficient, resilient, and maintainable code\n- At least 3 years of experience in data collection and preparation for machine learning models\n- Over 3 years of managing teams in a technical environment\n- Evidence of industry impact through presentations, publications, blog posts, open-source contributions, or patents\n- More than 3 years of experience in building production-ready data pipelines for machine learning\n- Strong communication skills to convey complex technical concepts clearly to diverse audiences\n\n\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Your responsibilities are:\n- Design, develop, and implement machine learning models and components that address practical business challenges while collaborating closely with Product and Data Science teams\n- Utilize your knowledge of machine learning modeling techniques to inform decisions regarding infrastructure, including model selection, data processing, feature selection, and validation\n- Tackle intricate problems by writing and testing application code, developing and validating models, and automating testing and deployment processes\n- Work collaboratively within a cross-functional Agile team to design and improve software solutions for advanced big data and machine learning applications\n- Maintain, monitor, and retrain machine learning models in production environments\n- Use or develop cloud-based architectures, technologies, or platforms to scale and optimize machine learning models\n- Create efficient data pipelines that support machine learning models\n- Apply best practices in continuous integration and deployment, including test automation and monitoring to ensure successful model and application code release\n- Manage code effectively to minimize vulnerabilities, ensure governance of models from a risk perspective, and adhere to best practices in Responsible and Explainable AI\n- Program in languages such as Python, Scala, or Java\n\nView this job and over 500 other transparent jobs with salaries (\ud83d\udcb0\ud83d\udcb0\ud83d\udcb0) & tech stacks (\ud83d\udee0\ufe0f) on DevITJobs\n\nCategory: ML, AI Developer / Engineer\nLocation address: Capital One Drive 1680, Arlington, United States\n\nSalary: $209,000 - 262,400 per year\n\nBenefits & perks that we offer:\n\nCapital One - More about us and the role:\nWe are Capital One, seeking a Senior Lead Machine Learning Engineer who will join our Agile team focused on deploying scalable machine learning applications and systems. Our scope includes the intricacies of technical design, development, and implementation utilizing cutting-edge technologies. Located in Cambridge, MA, McLean, VA, or Richmond, VA, this role offers the chance to continuously explore and incorporate the latest innovations in machine learning engineering. We pride ourselves on offering competitive compensation and a comprehensive benefits package that prioritizes health, financial security, and overall well-being for our employees in an inclusive environment.\n\nAre you looking for ML, AI jobs in Arlington?",
+                "job_is_remote": false,
+                "job_posted_at": null,
+                "job_posted_at_timestamp": null,
+                "job_posted_at_datetime_utc": null,
+                "job_location": "McLean, VA",
+                "job_city": "McLean",
+                "job_state": "Virginia",
+                "job_country": "US",
+                "job_latitude": 38.9338676,
+                "job_longitude": -77.1772604,
+                "job_benefits": [
+                    "health_insurance"
+                ],
+                "job_benefits_strings": [
+                    "Health insurance"
+                ],
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_y15QzloGbUzVixrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": "209K\u2013262K a year",
+                "job_min_salary": 209000,
+                "job_max_salary": 262000,
+                "job_salary_period": "YEAR",
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "AhS0RRbXGp__fduhAAAAAA==",
+                "job_title": "Senior Software Engineer - Machine Learning & Cloud Technologies",
+                "employer_name": "CACI",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_UWz2-naerDFCRPxBJHMbwR4uoKqDT458Iri8&s=0",
+                "employer_website": null,
+                "job_publisher": "CACI",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://searchcareers.caci.com/careers/job/1443149539617",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://searchcareers.caci.com/careers/job/1443149539617",
+                        "is_direct": false,
+                        "publisher": "CACI"
+                    }
+                ],
+                "job_description": "Job Title: Senior Software Engineer - Machine Learning & Cloud Technologies\n\nJob Category: Engineering\n\nTime Type: Full time\n\nMinimum Clearance Required to Start: TS/SCI with Polygraph\n\nEmployee Type: Regular\n\nPercentage of Travel Required: None\n\nType of Travel: None\n\n* * *\n\nThe Opportunity:\n\nJoin our dynamic team as a Software Engineer where you will play a pivotal role in developing, maintaining, and enhancing complex and diverse software systems. Whether working independently or as part of a collaborative team, you will contribute to innovative solutions that drive our mission forward. If you are passionate about software development, machine learning, and cloud technologies than this is an ideal role for you!\n\nResponsibilities\n\n* Data Pipelines: Implement and refactor data pipelines at scale to improve efficiency and code correctness.\n\n* Tool Enhancement: Monitor and enhance existing data science tools to facilitate the transition from development to production systems.\n\n* ML Analytics: Design, implement, and enhance machine learning analytics using Python libraries such as PyTorch, NumPy, Pandas, and Scikit-learn.\n\n* Model Management: Train, test, track, and curate models using industry-standard tools and practices.\n\n* CI/CD: Integrate GitOps for continuous integration and deployment of models using Docker and Kubernetes.\n\n* Cloud Services: Utilize AWS services such as EC2, S3, and RDS for building and deploying applications.\n\n* System Integration: Integrate model and tool outputs within Computer Network Defense (CND) systems to enhance Security Management/Monitoring services.\n\n* Documentation: Document all processes and code, and provide comprehensive reports on completed tasks.\n\n* This position sits 50% of the time at our Laurel and 50% at our Linthicum Heights, MD locations.\n\nQualifications\n\nRequired:\n\n* Active TS/SCI w/ Polygraph\n\n* Experience with Python\n\n* Experience with Docker and/or Kubernetes\n\n* 14 years\u2019 experience as a Software Engineer in programs and contracts of similar scope, type, and complexity, or a Bachelor\u2019s degree in Computer Science or a related discipline plus 4 years of additional SWE experience.\n\n* Bachelor\u2019s degree in Computer Science or a related discipline from an accredited college or university is required. Alternatively, 4 years of additional Software Engineering experience on projects with similar software processes may substitute for a bachelor\u2019s degree.\n\nDesired:\n\n* Experience with AWS\n\n* Experience with Machine Learning\n\nThis position is contingent on funding and may not be filled immediately. However, this position is representative of positions within CACI that are consistently available. Individuals who apply may also be considered for other positions at CACI.\n\nWhat You Can Expect:\n\nA culture of integrity.\n\nAt CACI, we place character and innovation at the center of everything we do. As a valued team member, you\u2019ll be part of a high-performing group dedicated to our customer\u2019s missions and driven by a higher purpose \u2013 to ensure the safety of our nation.\n\nAn environment of trust.\n\nCACI values the unique contributions that every employee brings to our company and our customers - every day. You\u2019ll have the autonomy to take the time you need through a unique flexible time off benefit and have access to robust learning resources to make your ambitions a reality.\n\nA focus on continuous growth.\n\nTogether, we will advance our nation's most critical missions, build on our lengthy track record of business success, and find opportunities to break new ground \u2014 in your career and in our legacy.\n\nPay Range:\n\nThere are a host of factors that can influence final salary including, but not limited to, geographic location, Federal Government contract labor categories and contract wage rates, relevant prior work experience, specific skills and competencies, education, and certifications. Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives. We offer competitive compensation, benefits and learning and development opportunities. Our broad and competitive mix of benefits options is designed to support and protect employees and their families. At CACI, you will receive comprehensive benefits such as; healthcare, wellness, financial, retirement, family support, continuing education, and time off benefits.\n\nThe proposed salary range for this position is:\n\n$131,800 - $290,000\n\nCACI is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, age, national origin, disability, status as a protected veteran, or any other protected characteristic.",
+                "job_is_remote": false,
+                "job_posted_at": null,
+                "job_posted_at_timestamp": null,
+                "job_posted_at_datetime_utc": null,
+                "job_location": "Linthicum Heights, MD",
+                "job_city": "Linthicum Heights",
+                "job_state": "Maryland",
+                "job_country": "US",
+                "job_latitude": 39.2051077,
+                "job_longitude": -76.6527456,
+                "job_benefits": [
+                    "health_insurance",
+                    "paid_time_off"
+                ],
+                "job_benefits_strings": [
+                    "Health insurance",
+                    "Paid time off"
+                ],
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAhS0RRbXGp__fduhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": null,
+                "job_min_salary": null,
+                "job_max_salary": null,
+                "job_salary_period": null,
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "5gMWrG-8_kQDvKj9AAAAAA==",
+                "job_title": "Artificial Intelligence/Machine Learning Engineer",
+                "employer_name": "EverWatch",
+                "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU1ILFCGiGe3lKERkDaCulyxkNtsr7ZTxz3t64&s=0",
+                "employer_website": "https://everwatchsolutions.com",
+                "job_publisher": "LinkedIn",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-engineer-at-everwatch-4414176844",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-engineer-at-everwatch-4414176844",
+                        "is_direct": false,
+                        "publisher": "LinkedIn"
+                    }
+                ],
+                "job_description": "Job Title\n\nArtificial Intelligence/Machine Learning Engineer\n\nOverview\n\nEverWatch is a government solutions company providing advanced defense, intelligence, and deployed support to our country\u2019s most critical missions. We are a full-service government solutions company. Harnessing the most advanced technology and solutions, we strengthen defenses and control environments to preserve continuity and ensure mission success.\n\nEverWatch employees are focused on tackling the most difficult challenges of the US Government. We offer the best salaries and benefits packages in our industry - to identify and retain the top talent in support of our critical mission objectives.\n\nCommitment To Non-Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.\n\nResponsibilities\n\nCyber and intelligence analysts rely on multi\u2011step workflows that are time\u2011sensitive, detail\u2011rich, and critical to national security. As an Artificial Intelligence/Machine Learning Engineer, you will work directly with mission users to capture these workflows, document operational decision points, and translate them into effective AI\u2011enabled capabilities.\n\nYou will design and implement solutions that may include LLM\u2011powered workflows, agent\u2011based automation, or hybrid approaches depending on mission needs. Your work will streamline analytical tasks, improve data accessibility, and support rapid, informed decision\u2011making in high\u2011tempo environments.\n\nYou\u2019ll collaborate with operators, analysts, developers, and mission leadership to ensure solutions integrate cleanly with existing systems, perform reliably in production, and adhere to the security and governance expectations of classified environments.\n\nJoin us. The world can\u2019t wait.\n\nQualifications\n\nYou Have:\n\n\u2022 Experience capturing user workflows and translating them into structured process maps, automation requirements, or executable logic\n\u2022 Experience designing or implementing LLM\u2011based or agentic workflows, including multi\u2011step reasoning, tool integrations, and orchestration\n\u2022 Experience integrating AI systems with APIs, enterprise data stores, or mission platforms\n\u2022 Experience with programming languages such as Python\n\u2022 TS/SCI clearance with a polygraph\n\u2022 Bachelor\u2019s degree and 3+ years of experience in AI/ML engineering, data science, or software engineering within cyber, intelligence, or national security environments or 6+ years of experience in AI/ML engineering, data science, or software engineering within cyber, intelligence, or national security environments in lieu of a degree\n\nNice If You Have\n\n\u2022 Experience engineering AI capabilities in on\u2011premise or multi\u2011classification environments\n\u2022 Experience with AWS or Azure, including work in restricted or classified environments\n\u2022 Experience with AI/LLM development framework such as LangChain, LangGraph, PydanticAI, or CrewAI\n\u2022 Experience with ML frameworks such as PyTorch, TensorFlow, vLLM, or llama.cpp\n\u2022 Experience with cyber or intelligence workflows, operational data types, or mission\u2011oriented analytical processes\n\u2022 Master\u2019s degree in AI, ML, Data Science, Cybersecurity, or Engineering\n\nClearance\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information ; TS/SCI clearance with a polygraph is required .\u202f\n\nCompensation at EverWatch is determined by various factors, including but not limited to location, the individual\u2019s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $47.60 to $108.18 per hour. The estimate displayed represents the typical compensation range for this position and is just one component of EverWatch\u2019s total compensation package for employees.\n\nClearance Level\n\nTS/SCI CIP\n\nJob Locations\n\nUS-MD-Annapolis Junction\n\nSkills\n\nAI/ML, LLM, API, Python",
+                "job_is_remote": false,
+                "job_posted_at": null,
+                "job_posted_at_timestamp": null,
+                "job_posted_at_datetime_utc": null,
+                "job_location": "Annapolis Junction, MD",
+                "job_city": "Annapolis Junction",
+                "job_state": "Maryland",
+                "job_country": "US",
+                "job_latitude": 39.1209588,
+                "job_longitude": -76.77564459999999,
+                "job_benefits": null,
+                "job_benefits_strings": null,
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5gMWrG-8_kQDvKj9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": null,
+                "job_min_salary": null,
+                "job_max_salary": null,
+                "job_salary_period": null,
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            },
+            {
+                "job_id": "yEmv9ioJ42AGvZXdAAAAAA==",
+                "job_title": "Artificial Intelligence & Machine Learning Engineer, Senior",
+                "employer_name": "Phase2 Technology",
+                "employer_logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://phase2.io&size=128",
+                "employer_website": "https://phase2.io",
+                "job_publisher": "JobLeads",
+                "job_employment_type": "Full-time",
+                "job_employment_types": [
+                    "FULLTIME"
+                ],
+                "job_apply_link": "https://www.jobleads.com/us/job/artificial-intelligence-machine-learning-engineer-senior--fort-meade--e8ebdcdbe26ab95fb830e050c9c26f9dd",
+                "job_apply_is_direct": false,
+                "apply_options": [
+                    {
+                        "apply_link": "https://www.jobleads.com/us/job/artificial-intelligence-machine-learning-engineer-senior--fort-meade--e8ebdcdbe26ab95fb830e050c9c26f9dd",
+                        "is_direct": false,
+                        "publisher": "JobLeads"
+                    }
+                ],
+                "job_description": "Overview\n\nArtificial Intelligence/Machine Learning Engineer, Senior\n\nCyber and intelligence analysts rely on multistep workflows that are time\u2011sensitive, detail\u2011rich, and critical to national security. As an Artificial Intelligence/Machine Learning Engineer, you will work directly with mission users to capture these workflows, document operational decision points, and translate them into effective AI\u2011enabled capabilities.\n\nYou will design and implement solutions that may include LLM\u2011powered workflows, agent\u2011based automation, or hybrid approaches depending on mission needs. Your work will streamline analytical tasks, improve data accessibility, and support rapid, informed decision making in high\u2011tempo environments.\n\nYou'll collaborate with operators, analysts, developers, and mission leadership to ensure solutions integrate cleanly with existing systems, perform reliably in production, and adhere to the security and governance expectations of classified environments.\n\nJoin us. The world can't wait.\n\nYou Have\n\n\u2022 Experience capturing user workflows and translating them into structured process maps, automation requirements, or executable logic\n\n\u2022 Experience designing or implementing LLM\u2011based or agentic workflows, including multistep reasoning, tool integrations, and orchestration\n\n\u2022 Experience integrating AI systems with APIs, enterprise data stores, or mission platforms\n\n\u2022 Experience with Python and at least one AI/LLM development framework such as LangChain, LangGraph, PydanticAI, or CrewAI\n\n\u2022 Experience with AWS or Azure, including work in restricted or classified environments\n\n\u2022 TS/SCI clearance with a polygraph\n\n\u2022 Bachelor's degree and 3+ years of experience in AI/ML engineering, data science, or software engineering within cyber, intelligence, or national security environments or 6+ years of experience in AI/ML engineering, data science, or software engineering within cyber, intelligence, or national security environments in lieu of a degree\n\nNice If You Have\n\n\u2022 Experience engineering AI capabilities in on\u2011premise or multi\u2011classification environments\n\n\u2022 Experience with ML frameworks such as PyTorch, TensorFlow, vLLM, or llama.cpp\n\n\u2022 Experience with cyber or intelligence workflows, operational data types, or mission\u2011oriented analytical processes\n\n\u2022 Master's degree in AI, ML, Data Science, Cybersecurity, or Engineering\n\nClearance\n\nApplicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information. TS/SCI clearance with polygraph is required.\n\nCompensation\n\nAt Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well\u2011being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work\u2011life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full\u2011time and part\u2011time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.\n\nSalary at Booz Allen is determined by various factors, including location, the individual's combination of education, knowledge, skills, competencies, and experience, as well as contract\u2011specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). This posting will close within 90 days from the Posting Date.\n\nIdentity Statement\n\nAs part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.\n\nCandidate AI Usage Policy\n\nAI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. The use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in\u2011person or virtual) is prohibited unless permission is explicitly provided.\n\nWork Model\n\nOur people\u2011first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.\n\n\u2022 Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.\n\n\u2022 Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.\n\n\u2022 Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.\n\nCommitment to Non\u2011Discrimination\n\nAll qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",
+                "job_is_remote": false,
+                "job_posted_at": "3 days ago",
+                "job_posted_at_timestamp": 1782259200,
+                "job_posted_at_datetime_utc": "2026-06-24T00:00:00.000Z",
+                "job_location": "Fort Meade, MD",
+                "job_city": "Fort Meade",
+                "job_state": "Maryland",
+                "job_country": "US",
+                "job_latitude": 39.104263499999995,
+                "job_longitude": -76.73423989999999,
+                "job_benefits": [
+                    "health_insurance"
+                ],
+                "job_benefits_strings": [
+                    "Health insurance"
+                ],
+                "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyEmv9ioJ42AGvZXdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+                "job_salary": null,
+                "job_salary_string": "99K\u2013225K a year",
+                "job_min_salary": 99000,
+                "job_max_salary": 225000,
+                "job_salary_period": "YEAR",
+                "job_highlights": {},
+                "job_onet_soc": null,
+                "job_onet_job_zone": null,
+                "employer_reviews": null
+            }
+        ],
+        "cursor": "EvcDCrcDQUppVDR0TGFaRlNhRXlDbzFpcVQtY1BrRDFlOHRva2w2M3JGMk1BMkZpdlR0c3BLWXFfRTdfVnFqUUIwY0NxbjE3UWVtcGF3N1lfUVpwVWtZQlA1bndsdmZsamRtZ2hlSjg4eEk0emNUdGVPNTk5SExrazA3ZWxMdzJHV0VNdHctWVlQMUluOHhjTlVkY1psaEl1b1lTeE9uQ1dUYmwySkZwZ3VDTWkwbUt3aW1oY0x6RWRyUlNxTU85QnNMWklnbkpCOFVtSldOVUdUaVRjVVRqRU0ycUs0aWJXdWtiUUpHOUhPLVZ6QnNFSUlQRU1FMXoxQWlwa2pVdXBaYjJGRnF0SXFkUU56ekZ4aklCUl9nd25fSUFPRER0V0g2TXZUSG9yYkdhWS0tRjJZeE9RN1h4MGtqUGJzVWVKZEZoY09OWFFpa1dfaDNXdUo4OHRRdl9YYV9pWF84WWxwRk1sMjZjc3VMNVFON184dVMxbzZZX0lyU3VTWVdhWGU5Mzl4YUxUNDVEd3cyNGFSQTZ1UTdWTTRDM01MN1NlY251TEVPRFB4bUhRbTJnTTlvUWZ1em9Idl9vaxIXOGlWQWFwakNBcVdpMXNRUGlNT2VnUTQaIkFEc3I5ZlNKa2xwT1l6OVNNXzAwMnRUUkxxQUJiM3h0U0E"
+    }
+}
