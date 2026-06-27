@@ -1,0 +1,242 @@
+[
+    {
+        "model_name": "baidu/Unlimited-OCR",
+        "author": null,
+        "downloads": 134146,
+        "likes": 1065,
+        "task": "image-text-to-text",
+        "last_modified": null
+    },
+    {
+        "model_name": "zai-org/GLM-5.2",
+        "author": null,
+        "downloads": 83589,
+        "likes": 2617,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "author": null,
+        "downloads": 486810,
+        "likes": 611,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+        "author": null,
+        "downloads": 186663,
+        "likes": 694,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "author": null,
+        "downloads": 516333,
+        "likes": 2406,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+        "author": null,
+        "downloads": 20346,
+        "likes": 456,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "Qwen/Qwen-AgentWorld-35B-A3B",
+        "author": null,
+        "downloads": 13186,
+        "likes": 328,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "krea/Krea-2-Turbo",
+        "author": null,
+        "downloads": 8721,
+        "likes": 290,
+        "task": "text-to-image",
+        "last_modified": null
+    },
+    {
+        "model_name": "WeiboAI/VibeThinker-3B",
+        "author": null,
+        "downloads": 54638,
+        "likes": 735,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+        "author": null,
+        "downloads": 3002,
+        "likes": 251,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "unsloth/GLM-5.2-GGUF",
+        "author": null,
+        "downloads": 107553,
+        "likes": 416,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "krea/Krea-2-Raw",
+        "author": null,
+        "downloads": 10408,
+        "likes": 205,
+        "task": "text-to-image",
+        "last_modified": null
+    },
+    {
+        "model_name": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "author": null,
+        "downloads": 3453492,
+        "likes": 2267,
+        "task": "image-text-to-text",
+        "last_modified": null
+    },
+    {
+        "model_name": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+        "author": null,
+        "downloads": 1779,
+        "likes": 173,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "nvidia/LocateAnything-3B",
+        "author": null,
+        "downloads": 494756,
+        "likes": 2387,
+        "task": "image-text-to-text",
+        "last_modified": null
+    },
+    {
+        "model_name": "Comfy-Org/Krea-2",
+        "author": null,
+        "downloads": 10,
+        "likes": 143,
+        "task": null,
+        "last_modified": null
+    },
+    {
+        "model_name": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+        "author": null,
+        "downloads": 56434,
+        "likes": 712,
+        "task": "automatic-speech-recognition",
+        "last_modified": null
+    },
+    {
+        "model_name": "deepreinforce-ai/Ornith-1.0-35B",
+        "author": null,
+        "downloads": 1005,
+        "likes": 132,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "microsoft/FastContext-1.0-4B-SFT",
+        "author": null,
+        "downloads": 5735,
+        "likes": 357,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "deepreinforce-ai/Ornith-1.0-9B",
+        "author": null,
+        "downloads": 218,
+        "likes": 120,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "LiquidAI/LFM2.5-230M",
+        "author": null,
+        "downloads": 8286,
+        "likes": 115,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+        "author": null,
+        "downloads": 4812629,
+        "likes": 363,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "huihui-ai/Huihui-gemma-4-12B-coder-fable5-composer2.5-v1-abliterated",
+        "author": null,
+        "downloads": 5445,
+        "likes": 136,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "deepreinforce-ai/Ornith-1.0-397B",
+        "author": null,
+        "downloads": 126,
+        "likes": 110,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "datalab-to/lift",
+        "author": null,
+        "downloads": 6054,
+        "likes": 159,
+        "task": "image-text-to-text",
+        "last_modified": null
+    },
+    {
+        "model_name": "Chunjiang-Intelligence/DeepSeek-v4-Fable",
+        "author": null,
+        "downloads": 1103,
+        "likes": 108,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "MiniMaxAI/MiniMax-M3",
+        "author": null,
+        "downloads": 169951,
+        "likes": 1248,
+        "task": "image-text-to-text",
+        "last_modified": null
+    },
+    {
+        "model_name": "nvidia/GLM-5.2-NVFP4",
+        "author": null,
+        "downloads": 441,
+        "likes": 96,
+        "task": "text-generation",
+        "last_modified": null
+    },
+    {
+        "model_name": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
+        "author": null,
+        "downloads": 35027,
+        "likes": 95,
+        "task": "image-text-to-text",
+        "last_modified": null
+    },
+    {
+        "model_name": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+        "author": null,
+        "downloads": 23772,
+        "likes": 93,
+        "task": "image-text-to-text",
+        "last_modified": null
+    }
+]

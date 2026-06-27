@@ -7,3 +7,7 @@ load_dotenv()
 # Hugging Face Configuration
 HF_API_URL = os.getenv("HF_API_URL")
 HF_LIMIT = int(os.getenv("HF_LIMIT"))
+
+
+print("HF_API_URL:", os.getenv("HF_API_URL"))
+print("HF_LIMIT:", os.getenv("HF_LIMIT"))
