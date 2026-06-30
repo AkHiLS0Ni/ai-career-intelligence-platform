@@ -1,136 +1,74 @@
-# 🚀 AI Career Intelligence Platform
+# 🤖 AI Career Intelligence Platform
 
-> A production-grade Data Engineering platform that continuously collects, processes, and visualizes AI ecosystem data from multiple live sources.
-
-## 📌 Current Version
-
-**v0.1.0 — Project Foundation**
-
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-black)
-![License](https://img.shields.io/badge/License-MIT-green)
+A production-style **Data Engineering & AI Analytics Platform** that collects, processes, and visualizes AI ecosystem data from multiple sources through an interactive Streamlit dashboard.
 
 ---
 
 ## 📌 Project Overview
 
-The AI ecosystem changes every day.
+The AI Career Intelligence Platform helps users explore the Artificial Intelligence ecosystem using multiple datasets, including:
 
-New AI models are released, companies publish new job openings, GitHub repositories become popular overnight, and AI news evolves rapidly.
+- ⭐ GitHub AI Repositories
+- 💼 Live AI Jobs
+- 🌍 Global AI Job Market
+- 📚 Hugging Face Models
+- 🧠 AI Skills Analytics
 
-Keeping track of all this information requires visiting multiple websites.
-
-**AI Career Intelligence Platform** solves this problem by automatically collecting data from multiple public sources, processing it through an ETL pipeline, storing it in a database, and presenting it through an interactive dashboard.
-
-This project is built as a **production-style Data Engineering project**, focusing on real-world engineering practices rather than simple data analysis.
-
----
-
-# 🎯 Problem Statement
-
-AI professionals and students spend significant time searching across multiple platforms for:
-
-- Latest AI news
-- Trending GitHub repositories
-- Popular Hugging Face models
-- AI job opportunities
-- Emerging technologies
-
-This platform centralizes these data sources into a single automated intelligence dashboard.
+The project demonstrates **ETL pipelines**, **data analysis**, **interactive dashboards**, and serves as a strong portfolio project for **Data Engineering**, **Data Analytics**, and **AI/ML** roles.
 
 ---
 
-## 🏗️ System Architecture
+# 🚀 Features
 
-```text
-                  Live Data Sources
-     ┌─────────────────────────────────────┐
-     │                                     │
-     │  GitHub API                         │
-     │  AI News API                        │
-     │  Hugging Face API                   │
-     │  Job RSS / Public APIs              │
-     └─────────────────────────────────────┘
-                      │
-                      ▼
-             Data Ingestion Services
-                      │
-                      ▼
-               Raw JSON Storage
-                      │
-                      ▼
-             ETL Pipeline (Python)
-                      │
-                      ▼
-             PostgreSQL Database
-                      │
-                      ▼
-                 FastAPI Backend
-                      │
-                      ▼
-             Streamlit Dashboard
-                      │
-                      ▼
-               Live Cloud Deployment
-```
+### 🏠 Home Dashboard
+- Project overview
+- Dataset summary
+- KPI cards
+- Quick insights
 
----
+### ⭐ GitHub Analytics
+- Repository analytics
+- Top starred repositories
+- Programming language distribution
+- Stars vs Forks analysis
+- Search repositories
+- Download CSV
 
-# ✨ Features
+### 💼 Live AI Jobs
+- Search AI jobs
+- Company filter
+- Country filter
+- Remote jobs analysis
+- Top hiring companies
+- Download CSV
 
-### Data Collection
+### 🌍 Global AI Market
+- 90,000+ AI jobs dataset
+- Country analysis
+- AI specialization analysis
+- Job role analysis
+- Experience level insights
+- Download CSV
 
-- Collect AI news automatically
-- Fetch trending GitHub repositories
-- Track Hugging Face trending models
-- Aggregate AI job opportunities
+### 📚 Hugging Face Analytics
+- Most downloaded models
+- Most liked models
+- Task distribution
+- Top authors
+- Search models
+- Download CSV
 
-### ETL Pipeline
+### 🧠 AI Skills Analytics
+- Most demanded AI skills
+- Skills distribution
+- Learning roadmap
+- Download CSV
 
-- Automated extraction
-- Data validation
-- Data cleaning
-- Data transformation
-- Logging
-- Error handling
-
-### Database
-
-- PostgreSQL storage
-- Historical data
-- Efficient querying
-
-### Dashboard
-
-- AI News Feed
-- Trending GitHub Projects
-- Popular AI Models
-- AI Hiring Trends
-- Technology Insights
-- Search & Filtering
-
-### Automation
-
-- Scheduled ETL jobs
-- Automatic updates
-- Live deployment
-
----
-
-# 🛠️ Tech Stack
-
-| Category        | Technology      |
-| --------------- | --------------- |
-| Language        | Python          |
-| API Integration | Requests        |
-| Data Processing | Pandas          |
-| Database        | PostgreSQL      |
-| Dashboard       | Streamlit       |
-| Scheduler       | GitHub Actions  |
-| Deployment      | Streamlit Cloud |
-| Version Control | Git & GitHub    |
+### 👨‍💻 About
+- Developer profile
+- Technology stack
+- Project architecture
+- Future roadmap
 
 ---
 
@@ -138,119 +76,191 @@ This platform centralizes these data sources into a single automated intelligenc
 
 ```text
 ai-career-intelligence-platform/
-
-│
-├── ingestion/
-│
-├── transform/
-│
-├── validation/
-│
-├── database/
 │
 ├── dashboard/
+│   ├── app.py
+│   ├── pages/
+│   │   ├── 1_GitHub.py
+│   │   ├── 2_Live_Jobs.py
+│   │   ├── 3_Global_AI_Market.py
+│   │   ├── 4_HuggingFace.py
+│   │   ├── 5_AI_Skills.py
+│   │   └── 6_About.py
+│   │
+│   ├── components/
+│   ├── styles/
+│   ├── utils/
+│   └── assets/
 │
-├── scheduler/
-│
-├── config/
-│
-├── tests/
-│
+├── analysis/
+├── ingestion/
+├── output/
+├── data/
 ├── logs/
-│
-├── raw_data/
-│
+├── tests/
 ├── requirements.txt
-│
-├── README.md
-│
-└── .env
+└── README.md
 ```
 
 ---
 
-# 🚀 Development Roadmap
+# 📊 Data Sources
 
-## Phase 1 — Foundation
-
-- [x] Git & GitHub
-- [x] FastAPI Setup
-- [x] Virtual Environment
-- [x] Professional Project Structure
-
-## Phase 2 — Data Ingestion
-
-- [ ] GitHub API
-- [ ] AI News API
-- [ ] Hugging Face API
-- [ ] Job Data Collection
-- [ ] Raw JSON Storage
-
-## Phase 3 — Data Engineering
-
-- [ ] PostgreSQL
-- [ ] SQLAlchemy
-- [ ] ETL Pipeline
-- [ ] Data Validation
-- [ ] Logging
-
-## Phase 4 — Dashboard
-
-- [ ] Streamlit
-- [ ] Charts
-- [ ] Search
-- [ ] Filters
-
-## Phase 5 — Production
-
-- [ ] GitHub Actions
-- [ ] Deployment
-- [ ] Docker
-- [ ] CI/CD
+| Source | Description |
+|---------|-------------|
+| GitHub API | Trending AI repositories |
+| JSearch API | Live AI jobs |
+| Hugging Face | Popular AI models |
+| Global AI Jobs Dataset | 90,000+ AI jobs |
 
 ---
 
-# 📊 Future Enhancements
+# 🛠️ Technology Stack
 
-- Docker support
-- Apache Airflow
-- Kubernetes deployment
-- AWS deployment
-- Machine Learning recommendations
-- Email alerts
-- User authentication
-- REST API
-
----
-
-# 🎓 Learning Objectives
-
-This project demonstrates practical experience with:
-
-- REST APIs
-- ETL Pipelines
-- Data Engineering
-- PostgreSQL
+### Programming
 - Python
-- Data Validation
-- Data Cleaning
-- Dashboard Development
-- CI/CD
-- Automation
-- Cloud Deployment
+- SQL
+
+### Data Processing
+- Pandas
+- NumPy
+
+### Visualization
+- Streamlit
+- Plotly
+
+### Version Control
+- Git
+- GitHub
+
+### Development Tools
+- VS Code
+- Jupyter Notebook
 
 ---
 
-# 📄 License
+# ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/AkHiLS0Ni/ai-career-intelligence-platform.git
+```
+
+Go to the project folder
+
+```bash
+cd ai-career-intelligence-platform
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the dashboard
+
+```bash
+python -m streamlit run dashboard/app.py
+```
+
+---
+
+# 📈 Dashboard Pages
+
+- 🏠 Home
+- ⭐ GitHub Analytics
+- 💼 Live AI Jobs
+- 🌍 Global AI Market
+- 📚 Hugging Face
+- 🧠 AI Skills
+- 👨‍💻 About
+
+---
+
+# 📸 Dashboard Preview
+
+> Screenshots will be added soon.
+
+---
+
+# 🚀 Future Roadmap
+
+## Version 4
+
+- PostgreSQL Integration
+- Apache Airflow
+- Docker
+- FastAPI
+- AWS Deployment
+
+## Version 5
+
+- Authentication
+- Resume Analyzer
+- AI Career Recommendation
+- LLM Integration
+- Real-time ETL Pipelines
+
+---
+
+# 🏗️ Project Architecture
+
+```text
+GitHub API
+       │
+JSearch API
+       │
+Hugging Face API
+       │
+Global AI Dataset
+       │
+───────────────
+ ETL Pipelines
+       │
+Processed CSV Data
+       │
+Streamlit Dashboard
+       │
+Interactive Analytics
+```
+
+---
+
+# 👨‍💻 Developer
+
+**Akhil Soni**
+
+M.Tech — Artificial Intelligence & Machine Learning
+
+Birla Institute of Technology, Mesra
+
+📧 Email:
+akhilsoni150@gmail.com
+
+🔗 GitHub:
+https://github.com/AkHiLS0Ni
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/akhil-soni-a83909290
+
+---
+
+# ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📜 License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+## 🚀 Version
 
-**Akhil Soni**
+**Current Version:** **3.0**
 
-M.Tech (AI & ML)
-
-Building real-world Data Engineering projects one pipeline at a time.
+**Next Version:** Production Data Engineering Platform with PostgreSQL, Airflow, Docker, FastAPI, and AWS.
